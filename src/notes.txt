@@ -1,0 +1,10 @@
+Delete one book:
+ 
+Steps:
+ 
+1. Write a route 
+2. Write a controller called 'deleteOneBookByTitle' 
+3. Delete book in function using sequelize 
+4. Send success response 
+5. Send error response 
+6. Test with thunder client
